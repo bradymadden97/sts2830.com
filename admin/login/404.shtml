@@ -1,0 +1,8 @@
+<html>
+<head><title>404 Error</title>
+<meta http-equiv="refresh" content="1; url=/" />
+</head>
+<body>
+<div style="margin-top:25px;font-size:18px;text-align:center">Page not found. <a href="/">Go home</a>.
+</body>
+</html>
